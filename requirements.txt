@@ -2,7 +2,7 @@ astroid==2.2.5
 certifi==2019.6.16
 chardet==3.0.4
 colorama==0.4.1
-Django==2.2.2
+Django==2.2.24
 django-appconf==1.0.3
 django-avatar==4.1.0
 django-crispy-forms==1.7.2
